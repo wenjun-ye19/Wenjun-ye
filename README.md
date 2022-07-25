@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wenjun2190
 - 👀 I’m interested in programming, technology, economics and history
-- 🌱 I’m currently learning python :)
+- 🌱 I’m currently learning python and C++ :)
 - 💞️ I’m looking to collaborate on (not sure yet haha)
 - 📫 How to reach me: https://www.linkedin.com/in/wenjun-ye-149826193/ (LinkedIn)
 
