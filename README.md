@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wenjun Ye, from Singapore
-- 👀 I’m interested in STEM.
+- 👀 I’m interested in anything related to STEM.
 - 🌱 I’m currently learning C, C++ and Python :)
-- 💞️ I’m looking to collaborate on (not sure yet haha)
+- 💞️ I’m looking to collaborate on (TBC)
 - 📫 How to reach me: https://www.linkedin.com/in/wenjun-ye-149826193/ (LinkedIn)
 
 <!---
